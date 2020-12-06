@@ -1,0 +1,18 @@
+Our repository link: https://github.com/kyumankim0522/INFO2950-Project
+
+3 dataset ideas:
+
+1. COVID & Black Friday relationship
+Examine the data for purchasing power by year and compare it with sales for black friday. We will be able to predict how different this year’s black friday would look based on the data regarding past year’s economic slumps, such as the 2008’s financial crisis and 1929’s Great Depression. Datasets will be retrieved from websites such as stats.oecd.org and kaggle.
+Purchasing power dataset example: https://stats.oecd.org/Index.aspx?DataSetCode=PPPGDP
+Black friday dataset example: https://www.kaggle.com/sdolezel/black-friday
+
+2. Movies and what makes them a blockbuster
+Observe which genres, directors, producers, companies, sponsors, casts, nationality, advertisement, or combinations of these characteristics contributed to making movies successful/profitable the most. Such data about movies is widely available and can be found on the Internet (IMDB or other accredited sources). We can measure success by looking at the movies’ box office/revenues they have gotten.
+
+3. Dining halls and their popularity based on the kinds of food/events they offer
+There’s a relatively limited availability of data for this idea. All the menus can be found on the Cornell's website pages about dining halls and eateries. They have detailed descriptions of the types of food each dining hall offers. However, since only the current menus are displayed (and those menus differ from the originals that were in place before the pandemic, we might have to ask dining halls for the data regarding last year’s menus. Most importantly, the data of how many students visited each dining hall every day is not available publicly; we would have to request this data from dining halls directly as well.
+
+Questions for reviewers:
+1. Are we allowed to choose an idea for which data is not publicly available (the dining hall popularity idea), so that we are required to reach out to the dining hall workers and ask for the data about the number of visitors they had throughout a year and their old menus?
+2. How general/broad should the dataset be? Does it have to be narrowed down to some extent so that it will be possible to make accurate data analysis (for idea 2, do we have to land on a certain category of movies or something like that)? 
